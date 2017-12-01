@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+setwd("C:\\Users\\variable\\Desktop\\Projects\\3D-MIL\\R\\Interpol")
+x <- read.table("x.csv", header=FALSE, sep=";")
+y <- read.table("y.csv", header=FALSE, sep=";")
+z <- read.table("z.csv", header=FALSE, sep=";")
+
+test <- c(x, y, z)
+
+ax^2+b*y^2+c*z^2 + d*x*y + e*
+  y*z + \[Zeta]*x*z + \[Eta]*x + \[Kappa]*y + \[Lambda]*z + \[Omega]
+
